@@ -4,9 +4,12 @@ This library is a [fork of the core component](https://www.home-assistant.io/int
 
 ## Installation
 
-1. Clone the repository.
-2. Copy the `noaa_tides` directory into `<home assistant directory>/custom_components/`
-3. Configure a sensor in configuration.yaml
+1. Open the Settings menu on the sidebar.
+2. Go to 'Add-ons'
+3. Click 'ADD-ON STORE'
+4. Click the three dots in the top right corner
+5. Open 'Repositories'
+6. Enter the URL to this branch ('https://github.com/mrcords1231/home_assistant_noaa_tides/') into the 'Add' text box, then click 'Add'
 
 ## Sample configuration
 
