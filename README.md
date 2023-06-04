@@ -4,12 +4,11 @@ This library is a [fork of the core component](https://www.home-assistant.io/int
 
 ## Installation
 
-1. Open the Settings menu on the sidebar.
-2. Go to 'Add-ons'
-3. Click 'ADD-ON STORE'
+1. Open HACS menu on the sidebar.
+2. Go to 'Integrations'
 4. Click the three dots in the top right corner
-5. Open 'Repositories'
-6. Enter the URL to this branch ('https://github.com/mrcords1231/home_assistant_noaa_tides/') into the 'Add' text box, then click 'Add'
+5. Open 'Custom repositories'
+6. Enter the URL to this branch ('https://github.com/mrcords1231/home_assistant_noaa_tides/') into the 'Repository' text box, select "Integration", then click 'Add'
 
 ## Sample configuration
 
